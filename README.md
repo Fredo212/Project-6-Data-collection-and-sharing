@@ -20,5 +20,5 @@ Participants of the survey were asked 5 questions:
 and
 
 5. Are you or have been a mother?
-6. 
+
 Through their responses, I was able to get an idea of my peers' perspective on how they felt about these different approaches and what approach they felt work best.
