@@ -1,6 +1,7 @@
 # Project-6-Data-collection-and-sharing
 
 My dataset is a collection of survey answers gathered from my peers about their opinions on 3 different categorizations of feminism:
+
 Difference-denying feminism -any difference between men and women is denied, and is said to be purely due to cultural impositions. There is no biological (called "essential") difference (no "on average" difference when doing group-wise comparison) between men and women. Every difference is socially constructed.
 
 Difference-removing feminism - There are biological difference between men and women, but these differences are burdens to women, like a curse of nature, and women must rely on technology to completely remove any biological difference between men and women to be "liberated" (for example only if we remove our wombs we can). Removing the difference is the only way of liberation. This type of feminism relies heavily on technology (especially biological technologies) for "liberation".
